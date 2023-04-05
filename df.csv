@@ -1,0 +1,129 @@
+name,lat,lon,icon,information
+トマト,35.739451,139.556461,tomato.png,"    <table width=""300pix"" height=""200pix"" border=""1"" >
+        <tr>
+            <th>作業内容</th><td>収穫2～3時間程度</td>
+        </tr>
+        <tr>
+            <th>住所</th><td>西東京市○○○○○○○○○○</td>
+        </tr>
+        <tr>
+            <th>種別</th><td>トマト農園</td>
+        </tr>
+        <tr>
+            <th>備考</th><td>手伝える方へ、300gを贈呈いたします</td>
+        </tr>
+    </table>
+    <br>
+    <button type=""submit"">応募する</button>"
+トマト,35.736178,139.555526,tomato.png,"    <table width=""300pix"" height=""200pix"" border=""1"" >
+        <tr>
+            <th>作業内容</th><td>収穫2～3時間程度</td>
+        </tr>
+        <tr>
+            <th>住所</th><td>西東京市○○○○○○○○○○</td>
+        </tr>
+        <tr>
+            <th>種別</th><td>トマト農園</td>
+        </tr>
+        <tr>
+            <th>備考</th><td>手伝える方へ、300gを贈呈いたします</td>
+        </tr>
+    </table>
+    <br>
+    <button type=""submit"">応募する</button>"
+トマト,35.734234,139.549479,tomato.png,"    <table width=""300pix"" height=""200pix"" border=""1"" >
+        <tr>
+            <th>作業内容</th><td>収穫2～3時間程度</td>
+        </tr>
+        <tr>
+            <th>住所</th><td>西東京市○○○○○○○○○○</td>
+        </tr>
+        <tr>
+            <th>種別</th><td>トマト農園</td>
+        </tr>
+        <tr>
+            <th>備考</th><td>手伝える方へ、300gを贈呈いたします</td>
+        </tr>
+    </table>
+    <br>
+    <button type=""submit"">応募する</button>"
+トマト,35.733213,139.54276,tomato.png,"    <table width=""300pix"" height=""200pix"" border=""1"" >
+        <tr>
+            <th>作業内容</th><td>収穫2～3時間程度</td>
+        </tr>
+        <tr>
+            <th>住所</th><td>西東京市○○○○○○○○○○</td>
+        </tr>
+        <tr>
+            <th>種別</th><td>枝豆農園</td>
+        </tr>
+        <tr>
+            <th>備考</th><td>手伝える方へ、300gを贈呈いたします</td>
+        </tr>
+    </table>
+    <br>
+    <button type=""submit"">応募する</button>"
+枝豆,35.737909,139.540239,edamame.png,"    <table width=""300pix"" height=""200pix"" border=""1"" >
+        <tr>
+            <th>作業内容</th><td>収穫2～3時間程度</td>
+        </tr>
+        <tr>
+            <th>住所</th><td>西東京市○○○○○○○○○○</td>
+        </tr>
+        <tr>
+            <th>種別</th><td>枝豆農園</td>
+        </tr>
+        <tr>
+            <th>備考</th><td>手伝える方へ、300gを贈呈いたします</td>
+        </tr>
+    </table>
+    <br>
+    <button type=""submit"">応募する</button>"
+枝豆,35.728404,139.531738,edamame.png,"    <table width=""300pix"" height=""200pix"" border=""1"" >
+        <tr>
+            <th>作業内容</th><td>収穫2～3時間程度</td>
+        </tr>
+        <tr>
+            <th>住所</th><td>西東京市○○○○○○○○○○</td>
+        </tr>
+        <tr>
+            <th>種別</th><td>枝豆農園</td>
+        </tr>
+        <tr>
+            <th>備考</th><td>手伝える方へ、300gを贈呈いたします</td>
+        </tr>
+    </table>
+    <br>
+    <button type=""submit"">応募する</button>"
+枝豆,35.731405,139.55809,edamame.png,"    <table width=""300pix"" height=""200pix"" border=""1"" >
+        <tr>
+            <th>作業内容</th><td>収穫2～3時間程度</td>
+        </tr>
+        <tr>
+            <th>住所</th><td>西東京市○○○○○○○○○○</td>
+        </tr>
+        <tr>
+            <th>種別</th><td>枝豆農園</td>
+        </tr>
+        <tr>
+            <th>備考</th><td>手伝える方へ、300gを贈呈いたします</td>
+        </tr>
+    </table>
+    <br>
+    <button type=""submit"">応募する</button>"
+枝豆,35.731585,139.563387,edamame.png,"    <table width=""300pix"" height=""200pix"" border=""1"" >
+        <tr>
+            <th>作業内容</th><td>収穫2～3時間程度</td>
+        </tr>
+        <tr>
+            <th>住所</th><td>西東京市○○○○○○○○○○</td>
+        </tr>
+        <tr>
+            <th>種別</th><td>枝豆農園</td>
+        </tr>
+        <tr>
+            <th>備考</th><td>手伝える方へ、300gを贈呈いたします</td>
+        </tr>
+    </table>
+    <br>
+    <button type=""submit"">応募する</button>"
